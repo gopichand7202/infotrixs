@@ -1,0 +1,3 @@
+# infotrixs
+
+Experienced in modern web development, I've gained proficiency in building web applications using technologies like Node.js, Express.js, and React. In a recent project, I implemented a full-stack solution featuring a Node.js server and an Express.js API to serve quotes from an external source. On the front end, I leveraged React to create an engaging user interface, enabling users to fetch and display random quotes and search for quotes by a specific author. I showcased expertise in state management, asynchronous data fetching, and error handling to deliver a seamless user experience. These skills have equipped me to create dynamic and interactive web applications that are responsive to user inputs and external data sources, as exemplified in this project
